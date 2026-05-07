@@ -4,6 +4,7 @@
 #This is a guided practice. Either follow with the video or your instructor will
 #go over this in class.
 
+
 import random
 
 # Ask user for inputs
